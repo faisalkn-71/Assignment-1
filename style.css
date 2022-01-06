@@ -48,9 +48,9 @@ span{
 .line-center{
     text-align: center;
 }
-.img-right{
+.img-left{
     text-align: left;
-    padding-right: 150px;
+    padding-right: 100px;
 }  
 #mission-bg{
     background-color: rgb(211, 243, 243);
@@ -73,6 +73,10 @@ span{
     background-size: 280px 300px;
     
 }
+#proverb{
+    color: rgb(0, 116, 161) ;
+    font-size: 20px;
+}
 #community-bg{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -80,7 +84,7 @@ span{
     background-size: 200px 200px;
 }
 .skills-color{
-    color: rgb(160, 8, 8);
+    color: rgb(218, 0, 0);
     font-weight: 900;
 }
 #img-bg{
